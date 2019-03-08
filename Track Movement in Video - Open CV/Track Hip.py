@@ -4,7 +4,7 @@ Spyder Editor
 
 This is a temporary script file.
 """
-import opencv as cv2
+import cv2
 import numpy as np
 from matplotlib import pyplot as plt
 
